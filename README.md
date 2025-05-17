@@ -1,4 +1,4 @@
-# classificação de obsedidade
+# classificação de obesidade
 
 Equipe: Bruno Marinho, Hanna Souza, Maria Rayana Pacheco e Rafael Railton
 
