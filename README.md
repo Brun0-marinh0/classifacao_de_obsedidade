@@ -1,6 +1,6 @@
-# classifção de obsedidade
+# classificação de obsedidade
 
-Equipe: Bruno Marinho, Hanna Souza, Rayana Pacheco e Rafael Railton
+Equipe: Bruno Marinho, Hanna Souza, Maria Rayana Pacheco e Rafael Railton
 
 1. Problema Proposto
 Nosso desafio é desenvolver um modelo capaz de classificar o nível de obesidade de um indivíduo a partir de informações como idade, hábitos alimentares, atividade física e outros fatores. (prompts)
