@@ -9,8 +9,8 @@ Vamos utilizar o Obesity Prediction Dataset, que é uma base de dados disponíve
 
 trabalho de pós graduação ciência de dados.
 
-link da base do desafio: https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dataset/data
-
 link do video: https://youtu.be/BBsFr-QQya4?feature=shared
+
+link do csv do desafio: https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dataset/data
 
 link do colabe: https://colab.research.google.com/drive/1DciXwcKW9AlkZF8mF20_xPjSAtQ7mQcD?usp=sharing
